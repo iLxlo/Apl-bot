@@ -1,6 +1,7 @@
 # Apl-bot
 
-Apl bot is multifunction & All in One bot, including features; DM welcomer, welcomer, greeter, message leaderboard, ticket system, report user system, and more. 🚀
+Apl bot is multifunction & All in One bot, including features; DM welcomer, welcomer, greeter, message leaderboard, ticket system, report user system, and more. 🚀 ![zeeconvert-com (1)](https://github.com/iLxlo/Apl-bot/assets/98545753/8fe51d52-ec86-4ac6-b5fa-ab85af1d3019)
+
 
 ## Setup
 Follow these steps to set up the bot:
@@ -27,8 +28,6 @@ Follow these steps to set up the bot:
      ```
 
 Feel free to customize the configuration and modify the code as per your requirements.
-![zeeconvert-com (1)](https://github.com/iLxlo/Apl-bot/assets/98545753/8fe51d52-ec86-4ac6-b5fa-ab85af1d3019)
-
 
 ## Usage
 Once the bot is set up and running, it will handle DM welcomer, welcomer, greeter, message leaderboard, ticket system, report user system, and other functionalities as configured in the code. 🎉

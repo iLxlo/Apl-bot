@@ -1,7 +1,6 @@
 # Apl-bot
-# Discord Bot
+## Description                        ![indir](https://github.com/iLxlo/Apl-bot/assets/98545753/9d6884f2-ac7f-4da7-91f5-dc783e9e1a0c)
 
-## Description
 Apl bot is multifunction & All in One bot, including features; DM welcomer, welcomer, greeter, message leaderboard, ticket system, report user system, and more. 🚀
 
 ## Setup

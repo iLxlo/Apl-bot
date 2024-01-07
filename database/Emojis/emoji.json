@@ -1,0 +1,27 @@
+{
+  "emojis": {
+    "heart": "<a:p_fhrt:1165603742587039838>",
+    "pingrib": "<a:pingribbon:1133355456673370112>",
+    "star": "<a:p_star:1165604324710285313>",
+    "hellolove": "<a:a_hklove:1186636299914977332>",
+    "hellocreate": "<a:hellokitty_shy:1152623433419604058>",
+    "helloGrab": "<a:hellokitty_dance:1178452548898799656>",
+    "leaderboard": {
+      "1": "<:1_:1133352461692846091>",
+      "2": "<:2_:1132297887045398608>",
+      "3": "<:3_:1132297294386036736>",
+      "4": "<:4_:1132297342666670131>",
+      "5": "<:5_:1132297401563091055>",
+      "6": "<:6_:1132297459423531118>",
+      "7": "<:7_:1132297533046149130>",
+      "8": "<:8_:1132297609520889979>",
+      "9": "<:9_:1132297663094726706>",
+      "10": "<:10_:1132297735681364010>"
+    }
+  },
+  "links": {
+    "thumbnail": "https://cdn.discordapp.com/emojis/859882092334153758.gif?size=240&quality=lossless",
+    "image": "https://www.jrtmedia.com/hangoverhub/divider3.gif",
+    "footerIcon": "https://images-ext-1.discordapp.net/external/69Ed7lq5Q6JBR11d3sLOrk_IGQsrr1xpEXsPAWmk_sw/https://images-ext-1.discordapp.net/external/coCM-_VRHa0CGhqj-cqPTnqtXUnIhNDVI8Ay3ucQpOs/https/www.jrtmedia.com/hangoverhub/heart.gif"
+  }
+}

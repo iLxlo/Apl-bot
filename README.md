@@ -1,6 +1,8 @@
 # Apl-bot
 
-Apl bot is multifunction & All in One bot, including features:                                                                          ![zeeconvert-com (1)](https://github.com/iLxlo/Apl-bot/assets/98545753/8fe51d52-ec86-4ac6-b5fa-ab85af1d3019)
+<div style="float: left; margin-right: 10px;">
+  <img src="https://github.com/iLxlo/Apl-bot/assets/98545753/8fe51d52-ec86-4ac6-b5fa-ab85af1d3019" alt="Apl-bot Image">
+</div>
 
 - [x] DM welcomer 🚀 
 - [x] Welcomer

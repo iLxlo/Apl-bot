@@ -1,6 +1,6 @@
 # Apl-bot
 
-<img align="right" width="100" src="https://github.com/iLxlo/Apl-bot/assets/98545753/8fe51d52-ec86-4ac6-b5fa-ab85af1d3019" alt="Apl-bot Image">
+<img align="right" width="100" src="https://github.com/iLxlo/Apl-bot/assets/98545753/f328d740-90f1-4fe1-88ed-d8bd0a6d9276" alt="Apl-bot Image">
 
 
 - [x] DM welcomer 🚀 

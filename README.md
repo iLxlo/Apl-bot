@@ -2,9 +2,13 @@
 
 Apl bot is multifunction & All in One bot, including features; 
 [x] DM welcomer 🚀 ![zeeconvert-com (1)](https://github.com/iLxlo/Apl-bot/assets/98545753/8fe51d52-ec86-4ac6-b5fa-ab85af1d3019)
+
 [x] welcomer
+
 [x] greeter
+
 [x] message leaderboard
+
 [x]ticket system & report user system
 
 and more...

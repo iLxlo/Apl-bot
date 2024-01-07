@@ -27,6 +27,7 @@ Follow these steps to set up the bot:
      ```
 
 Feel free to customize the configuration and modify the code as per your requirements.
-[![Author Image](https://github.com/iLxlo/Apl-bot/assets/98545753/9d6884f2-ac7f-4da7-91f5-dc783e9e1a0c)](URL_TO_GITHUB_PROFILE)
+![zeeconvert-com](https://github.com/iLxlo/Apl-bot/assets/98545753/cfd00b34-5745-45a3-b888-b1f818735493)
+
 ## Usage
 Once the bot is set up and running, it will handle DM welcomer, welcomer, greeter, message leaderboard, ticket system, report user system, and other functionalities as configured in the code. 🎉
